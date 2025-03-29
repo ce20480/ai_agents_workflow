@@ -1,0 +1,18 @@
+{
+  "etsy": [
+    "https://developers.etsy.com/documentation/reference/",
+    "https://developers.etsy.com/documentation/essentials/authentication",
+    "https://developers.etsy.com/documentation/essentials/definitions",
+    "https://developers.etsy.com/documentation/essentials/rate-limits",
+    "https://developers.etsy.com/documentation/essentials/requests",
+    "https://developers.etsy.com/documentation/essentials/urlsyntax",
+    "https://developers.etsy.com/documentation/get-help",
+    "https://developers.etsy.com/documentation/style",
+    "https://developers.etsy.com/documentation/tutorials/fulfillment",
+    "https://developers.etsy.com/documentation/tutorials/listings",
+    "https://developers.etsy.com/documentation/tutorials/overview",
+    "https://developers.etsy.com/documentation/tutorials/payments",
+    "https://developers.etsy.com/documentation/tutorials/quickstart",
+    "https://developers.etsy.com/documentation/tutorials/shopmanagement"
+  ]
+}
